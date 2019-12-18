@@ -1,0 +1,19 @@
+Get Reg Value GraphicAutoSetting : 0
+Get Reg Value Resolution : 6
+Get Reg Value WindowMode : 2
+Get Reg Value Vsync : 1
+Get Reg Value Language : 7
+Get Reg Value Setting : 0
+Get Reg Value MouseSensitivity : 4
+Get Reg Value MovieMode : 0
+Get Reg Value PadDecide : 1
+Get Reg Value KeyConfigReset : 0
+Device Name: [\\.\DISPLAY1] Device String: [NVIDIA GeForce RTX 2080 Ti]
+Disable GPU particle on this machine
+Init Devices Start
+Init Graphics
+Init Graphics Memory
+Create Graphics Device
+Reset Graphics Device
+Init Sound
+Init Devices End
